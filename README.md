@@ -19,7 +19,7 @@
 - <img src="https://icon-icons.com/icons2/112/PNG/512/python_18894.png" height="20vh"> I love Python language and participating in Codewars</li>
 - 🛠️ Before that I worked as a system administrator and technical support engineer</li>
 - 🚲 In my free time I read psychology, draw people, make homemade chocolate and ride my bike all year round </li>
-- How to reach me: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](@red_lance)
+- 📨 How to reach me: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](@red_lance)
 
 
 
@@ -42,6 +42,8 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
+## 🔭 My stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sharp-mind&theme=nord)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharp-mind&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
